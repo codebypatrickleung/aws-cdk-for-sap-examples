@@ -1,6 +1,12 @@
 # AWS CDK Examples for SAP  
 
-> This is a copy of work originally done at AWS. I am creating this version since my previous work was not associated with my personal GitHub account.
+> This is a copy of my work while I was an employee of Amazon Web Services. 
+
+The repository was used for the following AWS blog posts:
+
+- [Driving new levels of agility for your SAP workloads: an example with SAP Commerce](https://aws.amazon.com/blogs/awsforsap/driving-new-levels-of-agility-for-your-sap-workloads-an-example-with-sap-commerce/)
+- [Kubernetes and the path to cloud native application – An example with SAP Commerce](https://aws.amazon.com/blogs/awsforsap/kubernetes-and-the-path-to-cloud-native-application-an-example-with-sap-commerce/)
+- [Voice of Customer Analytics using SAP Data Intelligence on AWS](https://aws.amazon.com/blogs/awsforsap/voice-of-customer-analytics-using-sap-data-intelligence-on-aws/)
 
 This repository contains a set of example projects for SAP applications. All examples are available in TypeScript.
 
